@@ -216,3 +216,15 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+<<<<<<< HEAD
+=======
+
+.DS_Store
+
+# Supplemental documents
+INSTRUCTIONS_lecture2.md
+SETUP_lecture2.md
+INSTRUCTIONS_lecture3.md
+SETUP_lecture3.md
+starter/
+>>>>>>> 6ccc714d0fc1f92a962927d3a8ceaf1512d4535f
